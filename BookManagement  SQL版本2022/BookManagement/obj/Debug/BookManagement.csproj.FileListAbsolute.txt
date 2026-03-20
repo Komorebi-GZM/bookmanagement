@@ -1,0 +1,50 @@
+D:\project\sql\课程设计\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+D:\project\sql\课程设计\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+D:\project\sql\课程设计\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+D:\project\sql\课程设计\BookManagement\BookManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\project\sql\课程设计\BookManagement\BookManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.AssemblyReference.cache
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmAdminChangePwd.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmBookManager.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmBookTypeManager.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmChangePwd.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmLog.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmAdmin.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmUser.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmUserTypeManage.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.cache
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookMana.AEF0CC0B.Up2Date
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmInLibraryBookQuery.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmBorrowRecordQuery.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmBookBorrow.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmBookReturn.resources
+D:\project\sql\课程设计\BookManagement\BookManagement\obj\Debug\BookManagement.FmUserManager.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\bin\Debug\BookManagement.exe.config
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\bin\Debug\BookManagement.exe
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\bin\Debug\BookManagement.pdb
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.csproj.AssemblyReference.cache
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmAdminChangePwd.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmBookBorrow.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmBookManager.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmBookReturn.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmBookTypeManager.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmBorrowRecordQuery.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmChangePwd.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmInLibraryBookQuery.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmLog.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmAdmin.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmUserManager.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmUser.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.FmUserTypeManage.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.cache
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookMana.AEF0CC0B.Up2Date
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.exe
+D:\project\sql\课程设计\BookManagement - 副本\BookManagement\obj\Debug\BookManagement.pdb
